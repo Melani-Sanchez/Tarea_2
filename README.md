@@ -54,7 +54,7 @@ Este sistema puede ejecutarse fácilmente utilizando **Visual Studio Code** junt
 
 ---
 
-## 📜 Menú de Opciones
+## Menú de Opciones
 
 ```txt
 1. Cargar canciones desde archivo CSV.
@@ -67,7 +67,7 @@ Este sistema puede ejecutarse fácilmente utilizando **Visual Studio Code** junt
 
 ---
 
-## 🛠️ Funcionalidades principales
+## Funcionalidades principales
 
 * **Carga eficiente** desde CSV en estructuras organizadas por:
 
@@ -84,7 +84,7 @@ Este sistema puede ejecutarse fácilmente utilizando **Visual Studio Code** junt
 
 ---
 
-## 🔍 Ejemplo de uso
+## Ejemplo de uso
 
 Ejemplo de uso
 Paso 1: Cargar canciones
