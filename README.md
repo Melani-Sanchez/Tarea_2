@@ -90,7 +90,7 @@ Este sistema puede ejecutarse fácilmente utilizando **Visual Studio Code** junt
 **Paso 1: Cargar canciones**
 Opción seleccionada: 1. Cargar Canciones
 
-Se carga el archivo song_dataset_.csv.
+Se carga el archivo `song_dataset_.csv.`
 
 Las canciones se insertan en listas enlazadas clasificadas por tempo (lentas, moderadas y rápidas), y en tres MultiMap por artista, género e ID.
 
@@ -116,17 +116,17 @@ Si no se encuentran canciones:
 No se encontraron canciones del género 'Pop'.
 
 **Paso 3: Buscar canciones por artista**
-Opción seleccionada: 3. Buscar por Artista
+- Opción seleccionada: 3. Buscar por Artista
 
 Ingrese el nombre del artista: Adele
 
-Se imprimen todas las canciones correspondientes a ese artista con sus datos.
+- Se imprimen todas las canciones correspondientes a ese artista con sus datos.
 
-Si no se encuentra ninguna canción:
-No se encontraron canciones del artista 'Adele'.
+- Si no se encuentra ninguna canción:
+  No se encontraron canciones del artista 'Adele'.
 
 **Paso 4: Buscar por tempo**
-Opción seleccionada: 4. Buscar por Tempo
+- Opción seleccionada: 4. Buscar por Tempo
 
 Se despliega un submenú:
 ```txt
@@ -136,26 +136,26 @@ SELECCIONE UNA VELOCIDAD:
 3. Rápidas
 0. Volver al menú
 ```
-*Seleccionando opción 2 (Moderadas):*
+- Seleccionando opción 2 (Moderadas):
 Se imprimen todas las canciones con tempo entre 80.00 y 120.00.
 Si no hay resultados: no imprime nada.
 
-Seleccionando opción 0:
-Volviendo al menú principal...
+- Seleccionando opción 0:
+  Volviendo al menú principal...
 
 **Paso 5: Buscar canción por ID**
-Opción seleccionada: 5. Buscar por ID
+- Opción seleccionada: 5. Buscar por ID
 
 Ingrese el ID: TRK-9901
 
-Se imprime la información completa de la canción si existe.
+- Se imprime la información completa de la canción si existe.
 
-Si no se encuentra:
-No se encontró el ID 'TRK-9901'.
+- Si no se encuentra:
+  No se encontró el ID 'TRK-9901'.
 
 **Paso 6: Salida del programa**
-Opción seleccionada: 0. Salir
+- Opción seleccionada: 0. Salir
 
-Se imprime:
-Saliendo del programa...
+- Se imprime:
+  Saliendo del programa...
 
