@@ -104,6 +104,7 @@ Ingrese el género: Pop
 
 El sistema imprime una lista de todas las canciones del género Pop, mostrando:
 
+```txt
 ID: 1234
 Artista: John Doe
 Álbum: Hit Parade
@@ -111,6 +112,7 @@ Nombre: Summer Vibes
 Tempo: 100.50
 Género: Pop
 --------------------------
+```
 
 Si no se encuentran canciones:
 No se encontraron canciones del género 'Pop'.
